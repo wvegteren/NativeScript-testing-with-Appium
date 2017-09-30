@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+*.iml
+node_modules/
+.DS_Store
+*.tgz
+*.js
+*.js.map
+*.log
+*.d.ts
+demo/lib
+demo/platforms
+demo/e2e/reports
+demo/test-results.xml
+
